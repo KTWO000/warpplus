@@ -1,0 +1,6 @@
+{
+  "name": "mGuard VPN Client & Bypass Tool",
+  "description": "A highly interactive high-speed VPN simulator, real WireGuard/WARP config generator, unblocked web proxy, and AI-powered censorship bypass adviser optimized for Myanmar networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
